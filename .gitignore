@@ -1,0 +1,11 @@
+.venv/
+do_not_push_me.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
